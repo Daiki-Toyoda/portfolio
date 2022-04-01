@@ -522,6 +522,15 @@ about
 
   #works .card-caption-title {
     font-size: 12px;
+    text-align: center;
+  }
+  
+  #works .card-caption-skill {
+    text-align: center;
+  }
+  
+  #works .card-caption-url {
+    text-align: center;
   }
 
   #works .card-wrapper {
